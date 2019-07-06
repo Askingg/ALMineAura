@@ -1,0 +1,2 @@
+# ALMineAura
+Unique AutoMiner System
