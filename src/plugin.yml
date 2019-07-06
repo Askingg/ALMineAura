@@ -1,0 +1,10 @@
+name: ALMineAura
+author: Synysterrr
+version: 1.0
+main: me.syn.alminer.main.Main
+description: Custom MineAura - autominer like - System for AfterLife
+
+commands:
+  almineaura:
+   aliases: [alminer, alma, miner, mineaura ma]
+   description: MineAura Base Command
